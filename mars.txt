@@ -1,3 +1,4 @@
 mars is a planet
 its red
+There is no water in Mars
 
