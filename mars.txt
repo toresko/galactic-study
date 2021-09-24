@@ -1,5 +1,5 @@
-beautiful pmars is a planet
-its red
- and brownThere is no water in Mars
+mars is a beautiful planet
+its red and brown
+There is no water in Mars
 change text
 
